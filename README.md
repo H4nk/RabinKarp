@@ -7,3 +7,7 @@ teknik yang digunakan untuk plagiat adalah :
 Makin besar K-Gram yang digunakan makin kecil presentasi plagiatnya, dan sebaliknya begitu. makin kecil K-Gram yang di gunakankan maka makin besar juga persentase plagiatnya.
 3. Menentukan berapa besaran Basis Hash nya.
 Basis yang digunakan biasanya adalah basis 3, basis 5, basis 11. tapi pada aplikasi diberikan kebebesan untuk user untuk menentukan nilai basis. setiap nilai basis yang digunakan akan memberikan nilai yang berbeda .
+
+Aplikasi dibangun menggunakan
+1. Framework CodeIgniter 
+2. CSS Bootstrap
