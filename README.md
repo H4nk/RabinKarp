@@ -8,6 +8,13 @@ Makin besar K-Gram yang digunakan makin kecil presentasi plagiatnya, dan sebalik
 3. Menentukan berapa besaran Basis Hash nya.
 Basis yang digunakan biasanya adalah basis 3, basis 5, basis 11. tapi pada aplikasi diberikan kebebesan untuk user untuk menentukan nilai basis. setiap nilai basis yang digunakan akan memberikan nilai yang berbeda .
 
-Aplikasi dibangun menggunakan
-1. Framework CodeIgniter 
-2. CSS Bootstrap
+Penjelasan dapat di lihat : https://h4nk.blogspot.com/2015/04/aplikasi-plagiat-menggunakan-algoritma.html
+
+# Video Tutorial dan Penjelasan
+
+# Tool
+1. Framework CodeIgniter = https://api.github.com/repos/bcit-ci/CodeIgniter/zipball/3.1.11
+2. Bootstrap = https://getbootstrap.com/
+
+# Formula Similarity
+(2 * X / (A+B)*100)
