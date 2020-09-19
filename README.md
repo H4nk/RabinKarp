@@ -11,7 +11,7 @@ Basis yang digunakan biasanya adalah basis 3, basis 5, basis 11. tapi pada aplik
 Penjelasan dapat di lihat : https://h4nk.blogspot.com/2015/04/aplikasi-plagiat-menggunakan-algoritma.html
 
 # Video Tutorial dan Penjelasan
-
+https://youtu.be/4AiU75zptU8
 # Tool
 1. Framework CodeIgniter = https://api.github.com/repos/bcit-ci/CodeIgniter/zipball/3.1.11
 2. Bootstrap = https://getbootstrap.com/
